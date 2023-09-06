@@ -1,2 +1,2 @@
 # git-primer2
-This is a practice repository
+Hello, This is a practice repository
