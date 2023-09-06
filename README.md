@@ -1,4 +1,4 @@
-# git-primer2
+# git-primer
 Hello, This is a practice repository.
 
-Explore is the Best!
+#### Explore is the Best!
